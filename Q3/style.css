@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding-top: 10%;
+    font-family: "Century Gothic", CenturyGothic;
+    font-size: 20pt;
+    font-weight: normal;
+    background: lightblue;
+    text-align: center;
+}
+  
+#main {
+    margin: 100px auto;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  button {
+    padding: 20px;
+    text-shadow: 1px 1px 1px #ffffff;
+    font-family: "Lato", sans-serif;
+    font-size: 18pt;
+    border: 1px solid lightblue;
+    color: rgb(9, 25, 31);
+  }
+  
